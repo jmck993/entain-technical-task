@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ```sh
+yarn          # Install all dependencies
 yarn start    # Runs the app in development mode
 yarn test     # Starts the test runner in watch mode
 ```
