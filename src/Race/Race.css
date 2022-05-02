@@ -1,0 +1,8 @@
+.race {
+  --border-color: #3fa0d3;
+
+  width: 80%;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 15px 60px;
+}

@@ -1,0 +1,17 @@
+.filter-button {
+  --accent: #3fa0d3;
+
+  border: 1px solid var(--accent);
+  color: white;
+  font-size: 16px;
+  border-radius: 6px;
+  padding: 15px 60px;
+  width: 100%;
+  border: 1px solid var(--accent);
+  background: 0;
+  cursor: pointer;
+}
+
+.filter-button[data-active="true"] {
+  background-color: var(--accent);
+}
